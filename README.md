@@ -23,7 +23,7 @@ The project involves structuring the content using HTML and styling it with CSS.
 
 ### Prerequisites
 Before you begin, ensure you have the following:
-- A code editor (e.g., Visual Studio Code, Sublime Text).
+- A code editor (Visual Studio Code).
 - Basic knowledge of HTML and CSS.
 - An internet connection to access Google Fonts and Font Awesome.
 
